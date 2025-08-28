@@ -1,0 +1,33 @@
+HACKATHON 2:
+DEVOPS:
+ 1. devops= development + operations
+ 2.developers(who write code)
+ 3. operations(who deploy/ manage systems)
+ 4.work together, instead of working of silos.
+REAL TIME EXAMPLES:
+ imagine you're building a mobile app like swiggy.
+1.the developer writes code to add "Track my order" feature.
+2.without devOps: Developer gives code to ops team they manually deploy,bugs happen,delays
+3.with devops:code is automatically tested and deployed-------------- customers get updates faster and safety
+
+devops helps you:
+ 1.release features faster(adding new payment methods in Zomato)
+ 2.fix bugs quickly(like fixing login issue in IRCTC)
+ 3.Automate repetitive  tasks(like serves restarts, database backups)
+
+plan        define what to bulid     swiggy decides to add a 'dark mode"
+
+develop     write the code           developers write java/kotlin code for ui
+
+build       compile code into        android APK is buit automatically
+            deployement format       
+
+operate     keep app running, fix    monitor if app is crashing
+            any issues
+
+monitor     analyze performance and  firebase or new relic shows app metrics
+            feedback                  
+
+
+git: version control system
+GitHub: online platform to store git projects
